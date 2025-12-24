@@ -1,4 +1,6 @@
 # Informative Notes: OAuth
+<img src="Img.png" width="500">
+
 
 ## Table of Contents
 1. [Disclaimer](#disclaimer)
@@ -36,6 +38,7 @@ You’re saying:
 ---
 
 ## How OAuth Works
+<img src="Img1.png" width="500">
 1. User logs into a **trusted provider** (Google, Facebook, GitHub, etc.)  
 2. Provider asks for **permission**:  
    > “Do you allow this app to access your profile?”  
